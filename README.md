@@ -1,5 +1,5 @@
 # insee-covid
-Analyse des données de surmortalité de l'INSEE
+## Analyse des données de surmortalité de l'INSEE
 
 Cette analyse visualise les données brutes de surmortalité en France telles que rapportées par l'INSEE depuis Mars 2020, et les compare aux deux années précédentes afin d'évaluer l'impact net du COVID0-19 en termes de mortalité par tranche d'âge. Notez que les mois de Janvier et Février, qui ont été moins mortels en 2020 qu'en 2019 et 2018, ne sont pas inclus dans les données de l'INSEE, et ce en raison d'un début de propagation de l'épidémie à partir de Mars 2020. Les résultats ci-dessous seront donc légèrement sur-estimés par rapport à une analyse sur l'année complète.
 
